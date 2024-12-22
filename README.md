@@ -7,7 +7,7 @@ I'm @lebolnobel and I ❤ to craft, web stuffs, net neutrality, inclusion and ed
 - 📸 Photograph
 - 🌿 Naturalist
 - 🐝 Raising awareness of the living world
-- 🚀 I use mainly: `js`, `python` & `java`
+- 🚀 I use mainly: `js` & `java`
 - 💬 `ping` me about **UX**, **development**, **design thinking**, **inclusion**, etc.
 - 📫 Feel free to reach me through my email address.
 
