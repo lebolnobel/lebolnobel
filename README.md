@@ -2,7 +2,7 @@
 
 #### A Product Owner by day ☀️ and a Nature Protector by night 🌕
 
-I'm @lebolnobel and I ❤ to craft, web stuffs, net neutrality, inclusion and education hacking.
+I'm @lebolnobel and I ♥ to craft, web stuffs, net neutrality, inclusion and education hacking. Now I do things with code, blending tech and nature. I shape the world as a Product Owner and Naturalist.
 
 - 📸 Photograph
 - 🌿 Naturalist
